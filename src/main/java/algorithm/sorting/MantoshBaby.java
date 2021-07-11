@@ -10,7 +10,7 @@ public class MantoshBaby {
     }
 
     public void add(){
-
+        System.out.print("Hello Add");
     }
 
     public void substract(){
