@@ -20,7 +20,7 @@ public class StackLinkedList {
         stack.push(5);
         System.out.println("Size: " + stack.size());
         System.out.println("Peek: " + stack.peek());
-        stack.pop();
+        System.out.println(stack.pop());
         stack.printStack();
         System.out.println("Peek: " + stack.peek());
     }
